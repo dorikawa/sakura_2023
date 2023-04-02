@@ -129,7 +129,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 	
 <a href="20230330_000.png" data-lightbox="abc"><img src="20230330_000.png" alt="サンプル画像" width="900" /></a>
-<h2><span class="snow">鬼怒川の端から、田圃道を通って公園に向かいます。</span></h2>
+<h2><span class="snow">鬼怒川の橋から、田圃道を通って公園に向かいます。</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7S1WjrG9z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETP59UXO1Ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
