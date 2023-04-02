@@ -110,7 +110,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <img src="QR_ohanami.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_sakura.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
