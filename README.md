@@ -132,9 +132,18 @@ a.p:hover span {
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETP59UXO1Ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<h2><span class="snow">ここからは夕陽にあたった桜の写真。</span></h2>
+<a href="20230330_001.JPG" data-lightbox="abc"><img src="20230330_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_002.JPG" data-lightbox="abc"><img src="20230330_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_003.JPG" data-lightbox="abc"><img src="20230330_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_004.JPG" data-lightbox="abc"><img src="20230330_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_005.JPG" data-lightbox="abc"><img src="20230330_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_006.JPG" data-lightbox="abc"><img src="20230330_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_007.JPG" data-lightbox="abc"><img src="20230330_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_008.JPG" data-lightbox="abc"><img src="20230330_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230330_009.JPG" data-lightbox="abc"><img src="20230330_009.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
+<h2><span class="snow">最後にまた動画。</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jz4C4Kfu46U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wj-ceAkkDqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
